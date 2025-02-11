@@ -1,0 +1,1 @@
+<?php echo "Olá, Professor Anderson, tudo bem? Estou treinando PHP!"; ?>
