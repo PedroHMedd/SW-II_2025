@@ -1,5 +1,5 @@
 <?php
-    $boletim = array("Wesley" => "9", "Lucas" => "8", "Pedro" => "8", "Tiago" => "9");
+    $boletim = array("Vinicius" => "9", "Lucas" => "8", "Pedro" => "8", "Tiago" => "9");
     $soma = 0;
     foreach ($boletim as $key => $value) {
         $soma += $value;
