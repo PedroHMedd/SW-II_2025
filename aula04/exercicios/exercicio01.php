@@ -1,9 +1,9 @@
 <?php
-    $pessoa = array("nome" => "Wesley", "idade" => "17", "cidade" => "Ribeirão Pires");
+    $pessoa = array("nome" => "Pedro", "idade" => "17", "cidade" => "Ribeirão Pires");
 
     $pessoa["profissao"] = "Estudante";
 
-    $amigos = ["Lucas", "Tiago", "Pedro"];
+    $amigos = ["Luzao", "Cin", "Wesseninha"];
 
     $dados = array_merge($pessoa, $amigos);
     print_r($dados);
