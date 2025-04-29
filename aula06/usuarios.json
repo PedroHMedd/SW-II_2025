@@ -23,10 +23,5 @@
         "id": 5,
         "nome": "Hikaru Nakamura",
         "email": "nakamura@gmail.com"
-    },
-    {
-        "id": 6,
-        "nome": "Witty Alien",
-        "email": "alien@gmail.com"
     }
 ]
